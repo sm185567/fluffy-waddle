@@ -1,0 +1,19 @@
+Incidents
+and service requests are labels that model should predict 7 days ahead.
+
+binary classifers
+
+Each true prediction (TP) will save NCR $55 while each
+false prediction (FP) will cost NCR $45
+
+
+dcs_customer	asset_id dcs_assetName
+ dcs_managed
+	dcs_storeidentifier - to drop or not we will check 
+
+customer_id_2,
+
+customer number,customer name ,dervered failure category from incident 
+
+ 
+
